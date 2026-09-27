@@ -4,7 +4,7 @@ Dashboard desenvolvido em Excel para organizar e analisar dados de vendas de ass
 
 ## Arquivo
 
-- `dashboard_xbox.xlsx`: pasta de trabalho com a base de dados, cálculos e dashboard.
+- [Baixar dashboard_xbox.xlsx](https://github.com/CAR-CMD/dashboard_xbox/raw/refs/heads/main/dashboard_xbox.xlsx): pasta de trabalho com a base de dados, cálculos e dashboard.
 
 ## Organização da pasta de trabalho
 
@@ -15,7 +15,7 @@ Dashboard desenvolvido em Excel para organizar e analisar dados de vendas de ass
 
 ## Como reproduzir
 
-1. Abra `dashboard_xbox.xlsx` no Microsoft Excel.
+1. Baixe [dashboard_xbox.xlsx](https://github.com/CAR-CMD/dashboard_xbox/raw/refs/heads/main/dashboard_xbox.xlsx) e abra o arquivo no Microsoft Excel.
 2. Para atualizar a análise após alterar a base, use **Dados > Atualizar Tudo**.
 3. Use os filtros e segmentações disponíveis na pasta de trabalho para explorar os tipos de assinatura.
 
