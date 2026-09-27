@@ -23,7 +23,7 @@ As tabelas dinâmicas, segmentações e fórmulas do dashboard foram preparadas 
 
 ## Dados e privacidade
 
-O arquivo contém dados de assinantes, incluindo nomes e identificadores. Confirme que você tem autorização para compartilhar esses dados antes de publicar o repositório. Se necessário, anonimize os registros e valide o dashboard com a versão anonimizada.
+Os registros deste desafio foram informados como fictícios. Se a base for substituída por dados reais, remova ou anonimize nomes e identificadores antes de publicar alterações no repositório.
 
 ## Estrutura do repositório
 
